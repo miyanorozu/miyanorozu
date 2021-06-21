@@ -6,6 +6,7 @@
 
 
 # 關於Time Fly公司的介紹　Introduction of Time Fly
+![Time Fly Logo](./logo4.png)
 ### 品牌意義
 　　Time Fly ，可解作「**時光飛逝**」，也可解作「*每一刻的時間都像蝴蝶般翩翩起舞*」，如果你也覺得時間從來不等人，何不與它一同飛舞？一起來場深度旅遊，感受時光、享受時光、Make Time Fly。
 
